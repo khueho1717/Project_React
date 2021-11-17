@@ -1,0 +1,11 @@
+.element-todo{
+    /*width: 200px;*/
+    /*color: yellow;*/
+    margin-bottom: 10px;
+    border-bottom: yellow solid 1px;
+}
+
+.list-todo{
+    width: 400px;
+    margin: 0 auto;
+}
